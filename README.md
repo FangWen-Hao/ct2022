@@ -11,5 +11,9 @@ https://FangWen-Hao.github.io/ct2022s
 If the above hyperlink doesn't work, please use the following link:  
 https://fangwen-hao.github.io/ct2022s/hw02/  
 
+## HW03
+### [Click here to go to the HW03 page!](https://fangwen-hao.github.io/ct2022s/hw03/)
 
+If the above hyperlink doesn't work, please use the following link:  
+https://fangwen-hao.github.io/ct2022s/hw03/  
 
